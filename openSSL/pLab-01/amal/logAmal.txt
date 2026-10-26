@@ -1,0 +1,19 @@
+
+Using this symmetric key of length 32 bytes
+0000 - 6d 0f bb a4 9a f4 57 5d-21 11 e0 c7 0c 82 eb 0e   m.....W]!.......
+0010 - bb 94 2e c4 92 d6 0a 0c-5a 59 a0 1d 6b 69 61 22   ........ZY..kia"
+
+Using this Initial Vector of length 16 bytes
+0000 - 87 43 19 56 21 18 62 f0-c7 fb a0 f7 cb 0a 51 9e   .C.V!.b.......Q.
+
+HexDump of Plaintext:
+0000 - 48 65 6c 6c 6f 20 57 6f-72 6c 64 21 20 54 68 69   Hello World! Thi
+0010 - 73 20 69 73 20 41 6d 61-6c 20 65 6d 62 72 61 63   s is Amal embrac
+0020 - 69 6e 67 20 79 6f 75 20-61 6c 6c 20 77 69 74 68   ing you all with
+0030 - 20 68 6f 70 65 2e                                  hope.
+
+HexDump of Ciphertext:
+0000 - 83 01 91 1f ba 65 b2 78-0f d0 02 cc b4 aa 0b 54   .....e.x.......T
+0010 - 53 e2 a8 7d bb a6 a7 41-44 79 b4 a2 80 69 2a f3   S..}...ADy...i*.
+0020 - fd d1 6c e7 28 19 1f 68-59 e9 d4 6a 6b 81 cf fb   ..l.(..hY..jk...
+0030 - 08 54 22 ad e5 0d eb 6a-8d ee 2f ff d2 f5 27 be   .T"....j../...'.

@@ -1,0 +1,13 @@
+
+Starting Amal's  REFERENCE Code by ABOUTABL.
+
+Logged in as user 'finnegcw' on Tue Oct 14 18:38:49 2025
+
+<readFr. KDC> FD=5 , <sendTo KDC> FD=4 , <readFr. Basim> FD=9 , <sendTo Basim> FD=8
+
+Amal is sending the following to the KDC 'Amal   sends greetings to KDC           '
+Amal received the following from the KDC 'KDC    sends greetings to Amal          ' .... VALID
+Amal is sending the following to Basim   'Amal   sends greetings to Basim         '
+Amal received the following from Basim   'Basim  sends greetings to Amal          ' .... VALID
+
+Amal has terminated normally. Goodbye

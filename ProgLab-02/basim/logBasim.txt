@@ -1,0 +1,12 @@
+This is Basim. Will receive encrypted data from FD 5 and session key/IV from FD 3
+
+Received encrypted session key of length 256 bytes
+Received IV of length 16 bytes
+
+**** Size of Basim's Private Key is 2048 bits
+
+Successfully decrypted session key of length 32 bytes
+0000 - 3b 6a 99 b9 2c 81 21 4c-c2 a3 ce 96 d1 d0 c7 d6   ;j..,.!L........
+0010 - bc 53 eb 5b 6b 12 5c 9a-12 3c bf 84 96 e8 f5 40   .S.[k.\..<.....@
+
+Decryption complete. Output written to bunny.decr

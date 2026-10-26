@@ -1,0 +1,11 @@
+
+This is Basim's code by 'Colin Finnegan'.
+
+Basim: I will receive digest from FD 3 and file from FD 5
+Basim: Starting to receive incoming file and compute its digest
+
+Basim: Here is locally-computed digest of incoming file:
+0000 - b1 49 ae fa 80 1e f9 f1-7e 4c bd b7 41 14 06 d5   .I......~L..A...
+0010 - fc 5d f0 1b 17 60 21 d4-d3 af 98 6e 90 59 9c 27   .]...`!....n.Y.'
+0020 - 8a 48 79 d6 f5 72 41 65-f2 d2 ea f4 87 18 99 e7   .Hy..rAe........
+0030 - 26 97 d2 7b c5 97 b7 ba-70 6e 61 54 21 b0 dd 12   &..{....pnaT!...

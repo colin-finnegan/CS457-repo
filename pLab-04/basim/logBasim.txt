@@ -1,0 +1,11 @@
+
+Starting Basim's REFERENCE Code by ABOUTABL.
+
+Logged in as user 'finnegcw' on Tue Oct 14 18:38:49 2025
+
+<readFr. Amal> FD=7 , <sendTo Amal> FD=10
+
+Basim received the following from Amal   'Amal   sends greetings to Basim         ' .... VALID
+Basim is sending the following to Amal   'Basim  sends greetings to Amal          '
+
+Basim has terminated normally. Goodbye

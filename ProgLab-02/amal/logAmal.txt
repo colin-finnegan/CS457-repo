@@ -1,0 +1,10 @@
+This is Amal. Will send encrypted data to FD 6 and session key/IV to FD 4
+
+**** Size of Basim's Public Key is 2048 bits
+
+Using this symmetric session key of length 32 bytes
+0000 - 3b 6a 99 b9 2c 81 21 4c-c2 a3 ce 96 d1 d0 c7 d6   ;j..,.!L........
+0010 - bc 53 eb 5b 6b 12 5c 9a-12 3c bf 84 96 e8 f5 40   .S.[k.\..<.....@
+
+Using this Initial Vector of length 16 bytes
+0000 - b3 1a 04 e6 df 58 a6 6b-e0 a8 37 98 8a 44 64 68   .....X.k..7..Ddh

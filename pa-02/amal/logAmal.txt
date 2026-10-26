@@ -1,0 +1,28 @@
+
+This is Amal's code by 'Colin Finnegan'.
+
+Amal: I will send digest to FD 4 and file to FD 6
+
+Amal: Here is the digest of the file:
+0000 - b1 49 ae fa 80 1e f9 f1-7e 4c bd b7 41 14 06 d5   .I......~L..A...
+0010 - fc 5d f0 1b 17 60 21 d4-d3 af 98 6e 90 59 9c 27   .]...`!....n.Y.'
+0020 - 8a 48 79 d6 f5 72 41 65-f2 d2 ea f4 87 18 99 e7   .Hy..rAe........
+0030 - 26 97 d2 7b c5 97 b7 ba-70 6e 61 54 21 b0 dd 12   &..{....pnaT!...
+
+Amal: Here is my signature on the file:
+0000 - 00 45 2e 1a 99 30 fc d9-e3 46 e4 4c 5d 24 e0 68   .E...0...F.L]$.h
+0010 - e1 9d e7 6c 20 71 c0 51-70 d4 36 37 e7 50 37 47   ...l q.Qp.67.P7G
+0020 - ea ea 6c ca 4a 44 a6 76-e3 0a 6c 7e fc c6 94 3b   ..l.JD.v..l~...;
+0030 - f5 56 93 86 50 68 5c 7d-d7 2c 04 d9 7b 0a eb 39   .V..Ph\}.,..{..9
+0040 - cc cc 3c f2 4e e4 21 4b-5d a9 b4 2f ea 42 6d 3a   ..<.N.!K]../.Bm:
+0050 - 33 bc a5 0f 34 c4 09 9b-76 e2 e2 31 e6 86 6b f1   3...4...v..1..k.
+0060 - d0 17 96 b1 3c 4b 44 43-35 6c b4 21 27 18 3a f3   ....<KDC5l.!'.:.
+0070 - 23 10 39 30 12 b2 9e f5-ef 20 2a 2d a0 8d 6e 57   #.90..... *-..nW
+0080 - 87 2b 69 23 7f b8 8d 63-66 c7 f3 a9 b1 f4 77 f2   .+i#...cf.....w.
+0090 - 12 68 bc a7 16 a3 08 06-f2 a8 c7 90 2c 86 d0 ca   .h..........,...
+00a0 - 61 56 ff ed 9a b6 c7 0f-5b 4d 80 0e 42 14 79 38   aV......[M..B.y8
+00b0 - aa 2f d6 13 36 38 d6 12-3c 5b e7 8f 8e 94 f5 c6   ./..68..<[......
+00c0 - 87 f2 f2 29 a7 6d 5a b1-ba 8f 31 1f 11 6a e9 89   ...).mZ...1..j..
+00d0 - 77 b5 ad 6b 9b 48 51 64-b4 76 ab 43 08 f9 65 a7   w..k.HQd.v.C..e.
+00e0 - e3 54 28 15 6f 2c 07 2c-ba 16 a7 63 b8 4a fe 5f   .T(.o,.,...c.J._
+00f0 - d0 87 59 73 bc 53 e6 92-36 e8 a8 db a2 12 e2 c6   ..Ys.S..6.......

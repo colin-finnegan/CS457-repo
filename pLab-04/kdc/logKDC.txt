@@ -1,0 +1,11 @@
+
+Starting KDC  's REFERENCE Code by ABOUTABL.
+
+Logged in as user 'finnegcw' on Tue Oct 14 18:38:49 2025
+
+<readFr. Amal> FD=3 , <sendTo Amal> FD=6
+
+KDC     received the following from Amal 'Amal   sends greetings to KDC           ' .... VALID
+KDC     is sending the following to Amal 'KDC    sends greetings to Amal          '
+
+KDC   has terminated normally. Goodbye
